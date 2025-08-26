@@ -1,6 +1,7 @@
 # student
 subhash
 
-# course
-BCA
+# By and sell stock
+For the money exchange
+
 
